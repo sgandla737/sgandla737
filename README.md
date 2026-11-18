@@ -50,3 +50,6 @@ Research Gate:
 ## 📫 Connect With Me
 
 LinkedIn: (https://www.linkedin.com/in/sindhuri-gandla)
+
+## 📄 CV
+[View my CV](https://github.com/sgandla737/sgandla737/blob/main/Sindhuri%20Gandla_CV.pdf)
